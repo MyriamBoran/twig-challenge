@@ -1,0 +1,27 @@
+{
+  "name": "twig-challenge",
+  "version": "1.0.0",
+  "description": "Twig coding challenge",
+  "main": "groupArrayElements.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyriamBoran/twig-challenge.git"
+  },
+  "author": "Myriam Boran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyriamBoran/twig-challenge/issues"
+  },
+  "homepage": "https://github.com/MyriamBoran/twig-challenge#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2"
+  }
+}
